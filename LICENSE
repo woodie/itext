@@ -1,0 +1,21 @@
+From the iText website: http://www.lowagie.com/iText/
+
+License Agreement
+=================
+iText is published under 2 different licenses: MPL and LGPL.
+
+If you are a new user of iText, MPL is recommended (without the LGPL). MPL is less strict than LGPL. Please read the MPL license agreement before downloading and/or using iText.
+
+LGPL is maintained for backward compatibility only. If you choose the LGPL, you need to mention the MPL as an alternative license. Please read the LGPL license agreement for more info.
+
+This library is free and I want it to stay free: you can use it without paying a fee; you don't need to register anywhere. Only keep in mind that agreeing with the license is crucial to protect the software, its developers and its users. This library is distributed in the hope that it will be useful, but WITHOUT any warranty. If you don't like free software, don't (ab)use it!
+
+(MPL is the Mozilla Public License, found at http://www.lowagie.com/iText/MPL-1.1.txt.)
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
